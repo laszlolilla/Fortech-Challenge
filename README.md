@@ -1,2 +1,2 @@
 # Fortech-Challenge
-JS code for a Project Management Tool
+JS and HTML code for a Project Management Tool. CSS needs to be done.
